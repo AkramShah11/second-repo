@@ -1,8 +1,17 @@
 h1{
    color: rgb(126, 6, 6);
 }
-p{
+#d1 {
     background-color: rgb(196, 252, 233);
+    border: 4px black solid;
+    margin: 7px;
+    padding: 7px;
+    height: 30px; width: 150px;
+}
+#d2{
+    background-color: yellow;
+    color: red;
+    
 }
 h2{
     background-color: antiquewhite;
